@@ -52,7 +52,7 @@ Create a `.env` file in the backend and frontend directories with the required c
 cd client
 npm start
 ```
-### LIVE AT 
+### LIVE AT https://chahat-srivastava.github.io/google-sheets-clone/
 ### **5. Open in Browser**
 Visit `http://localhost:3000` to start using your Google Sheets Clone!
 
