@@ -1,0 +1,10 @@
+input{
+    min-width: "100px"; 
+    border: "none"; 
+    outline: "none"; 
+    background: "transparent"
+}
+td.custom-table-cell {
+    min-width: 100px !important;
+    padding: 5px !important;
+  }
